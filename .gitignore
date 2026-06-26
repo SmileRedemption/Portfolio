@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+
+# Resume source files (not part of the site)
+*.pdf
+RESUME_GUIDE.md

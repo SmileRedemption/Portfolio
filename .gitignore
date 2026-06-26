@@ -3,4 +3,5 @@
 
 # Resume source files (not part of the site)
 *.pdf
+!docs/*.pdf
 RESUME_GUIDE.md
